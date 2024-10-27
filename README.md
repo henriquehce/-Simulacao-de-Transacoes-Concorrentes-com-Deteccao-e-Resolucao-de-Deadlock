@@ -1,7 +1,7 @@
 
 # Simulação de Transações Concorrentes com Detecção e Resolução de Deadlock
 
-<!-- link do video:https://www.youtube.com/watch?v=d6Ml6XFzKFg&ab_channel=Henriquereis -->
+link do video:https://www.youtube.com/watch?v=d6Ml6XFzKFg&ab_channel=Henriquereis
 
 Este projeto implementa uma simulação de transações concorrentes em Python, usando threads que competem por recursos compartilhados. O objetivo é provocar deadlocks e utilizar uma técnica de detecção e resolução para gerenciá-los, aplicando o protocolo *wound-wait* com base em timestamps.
 
