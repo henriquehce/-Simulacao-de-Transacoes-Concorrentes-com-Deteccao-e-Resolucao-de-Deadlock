@@ -41,6 +41,7 @@ O programa cria cinco threads (`Thread-1` a `Thread-5`), que concorrem pelos rec
    python <nome_do_arquivo>.py
    ```
 3. Observe as mensagens no terminal, que exibem o progresso e a resolução de deadlocks entre threads.
+4. Ou apenas execute dentro da sua IDE
 
 ## Requisitos
 - Python 3.x
